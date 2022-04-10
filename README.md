@@ -129,7 +129,6 @@ DLL Hijacking means a program will load and execute a malicious DLL contained in
 <br>
 
 ## Mock directories
-Heres a description I stole from [daniels blog](http://daniels-it-blog.blogspot.com/2020/07/uac-bypass-via-dll-hijacking-and-mock.html)
 
 Mock directories are folders with a trailing space. For example \
 ```
