@@ -1,7 +1,7 @@
 <!-- # Powershell UAC bypass -->
 <img src="https://i.snipboard.io/b2ozpR.jpg"></img>
 
-
+⚠ ONLY USE FOR EDUCATIONAL PURPOSES ⚠ 
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
